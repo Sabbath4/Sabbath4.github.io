@@ -1,0 +1,218 @@
+@media only screen and (max-width: 480px) {
+    .container {
+        margin: 0 auto;
+        width: 100%;
+        max-width: 400px;
+    }
+    .bl2_cont {
+        width: 380px;
+    }
+    .catalog {
+        height: 20px;
+        width: 20px;
+        right: 23px;
+        top: 58px;
+        background-size: 20px 20px;
+    }
+    .nav {
+        display: none;
+    }
+    .clock {
+        position: absolute;
+        left: 15px;
+        top: 15px;
+    }
+    .intro {
+        height: 519px;
+    }
+    .bg_img {
+        position: absolute;
+        width: 371px;
+        height: 389px;
+        left: 9px;
+        top: 148px;
+    }
+    .ph_cont {
+        display: block;
+        text-transform: uppercase;
+        position: absolute;
+        width: 124px;
+        height: 26px;
+        left: 133px;
+        top: 91px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        text-align: center;
+
+        color: #000000;
+    }
+    .intro_title {
+        position: absolute;
+        width: 290px;
+        height: 37px;
+        left: 5px;
+        top: 377px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 39px;
+        text-align: center;
+
+        color: #979598;
+    }
+    .intro_text {
+        position: absolute;
+        width: 313px;
+        height: 20px;
+        left: 0px;
+        top: 414px;
+
+        font-family: 'Times New Roman';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 23px;
+        text-align: center;
+
+        color: #979598;
+    }
+    .order {
+        position: absolute;
+        width: 92px;
+        height: 22px;
+        left: 30px;
+        top: 453px;
+        background: #4B5676;
+        border-radius: 20px;
+        font-family: 'Times New Roman';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 17px;
+        color: #FFF;
+    }
+    .reviews {
+        position: absolute;
+        width: 187px;
+        height: 50px;
+        left: 142px;
+        top: 684px;
+        font-family: 'Times New Roman';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        text-transform: uppercase;
+        text-align: center;
+        border: none;
+        color: #4B5676;
+        background: #BCB9B9;
+        border-radius: 38px;
+    }
+    .reviews {
+        position: absolute;
+        width: 102px;
+        height: 22px;
+        left: 25px;
+        top: 485px;
+        font-family: 'Times New Roman';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 17px;
+        text-align: center;
+
+        color: #4B5676;
+        background: #BCB9B9;
+        border-radius: 20px;
+    }
+    .bl2_text {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 29px;
+        color: #585151;
+        width: 293px;
+        height: 215px;
+        margin-left: 54px;
+    }
+
+    .brands {
+        margin-top: 25px;
+        text-transform: uppercase;
+        font-family: 'Times New Roman';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        color: #585151;
+    }
+    .clock_brands {
+        display: flex;
+        flex-direction: column;
+        padding-top: 50px;
+    }
+    .block_2 {
+        height: 1800px;
+    }
+
+    .clock_brands_item {
+        display: block;
+        position: relative;
+        width: 100%;
+        max-width: 283px;
+        height: 400px;
+        margin-bottom: 60px;
+        margin-left: 27px;
+    }
+
+    .item_text {
+        position: absolute;
+        width: 120px;
+        height: 24px;
+        left: 108px;
+        top: 376px;
+
+        background: #D9D9D9;
+        font-family: 'Times New Roman';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #585151;
+    }
+    .footer{
+        height: 200px;
+        margin-bottom: 50px;
+    }
+    .contacts {
+        width: 161px;
+        height: 38px;
+        font-family: 'Times New Roman';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        background: #4B5676;
+        border-radius: 10px;
+        color: white;
+    }
+    .sm {
+        width: 200px;
+    }
+    .sm_img {
+        width: 40px;
+        height: 40px;
+    }
+}
